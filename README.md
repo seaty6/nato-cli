@@ -6,6 +6,7 @@ Allows quick translation of a string to its letters in NATO form.
 `pip install nato-cli`
 
 # Usage
+![Gif in action](https://user-images.githubusercontent.com/18372532/107841824-5131cf80-6d8c-11eb-9bcc-775c89af7ed5.gif)
 
     > nato Sampath
     s       Sierra
